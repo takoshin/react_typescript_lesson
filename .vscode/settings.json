@@ -1,3 +1,4 @@
 {
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "python.pythonPath": "/Users/takoshin/.anyenv/envs/pyenv/versions/3.9.4/bin/python"
 }
